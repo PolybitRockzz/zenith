@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "action": "hold",
+        "details": [
+            {
+                "summary": "OpenAI seeks to remove a clause about AGI from its Microsoft contract to facilitate further investments.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Xbox is at a crossroads at the end of 2024, suggesting uncertainty about its future direction.",
+                "sentiment": "negative",
+                "action": "sell"
+            },
+            {
+                "summary": "RomCom exploits zero-day vulnerabilities in Firefox and Windows, indicating a security risk.",
+                "sentiment": "negative",
+                "action": "sell"
+            },
+            {
+                "summary": "AI data centers are causing potential power supply shortages in North America.",
+                "sentiment": "negative",
+                "action": "sell"
+            },
+            {
+                "summary": "A compact update on AI includes information on ChatGPT, power supply issues, Meta Apollo, and Nvidia.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Xbox Indie Game Fest Demo Event is announced.",
+                "sentiment": "positive",
+                "action": "hold"
+            },
+            {
+                "summary": "Armored Core players are handling cheaters effectively, highlighting the game's competitive community.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "A look back at the 30th anniversary of Netscape Navigator 1.0, a browser that revolutionized the internet.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "A demo version of 'FANTASIAN ND', a game with a diorama-style world, has been released.",
+                "sentiment": "positive",
+                "action": "hold"
+            },
+            {
+                "summary": "Snoop Dogg's Xbox collection and year in review are highlighted.",
+                "sentiment": "positive",
+                "action": "hold"
+            }
+        ]
+    },
+    {
+        "name": "Alphabet Inc.",
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "action": "hold",
+        "details": [
+            {
+                "summary": "Meta Platforms is challenging OpenAI's shift to a for-profit model, potentially creating competition in the AI space.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "AI startup Perplexity closed a funding round at a $9 billion valuation, indicating a strong interest in AI startups and potential future competition for Alphabet.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Canada's antitrust watchdog is suing Google, seeking a breakup of its ad tech business, which could negatively impact Alphabet's revenue.",
+                "sentiment": "negative",
+                "action": "sell"
+            },
+            {
+                "summary": "A judge is expressing skepticism about Google's arguments in the ad tech case, increasing the risk of a negative outcome for Google.",
+                "sentiment": "negative",
+                "action": "sell"
+            },
+            {
+                "summary": "GM is retreating from robotaxis and stopping funding for its Cruise autonomous vehicle unit, which may impact Waymo's competitive landscape.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "An analysis suggests that Alphabet stock has room to increase in value, indicating potential upside.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "Waymo robotaxis are starting road tests in Tokyo, marking their first overseas expansion and a positive step for the company's autonomous vehicle efforts.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "GE Vernova will power data centers with gas as AI demand increases, indicating growth in data center infrastructure and potentially positive indirect impact for Alphabet.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "The article lists trillion dollar companies in 2024, without further analysis.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "An article discusses whether Google might sell the Chrome browser to Alphabet, a potential restructuring move.",
+                "sentiment": "neutral",
+                "action": "hold"
+            }
+        ]
+    },
+    {
+        "name": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "action": "buy",
+        "details": [
+            {
+                "summary": "NVIDIA's supply chain is boosted by strong orders from Vishay for AI servers and RTX 50 series.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "NVIDIA is considered among the best stocks to buy for long-term growth based on a specific indicator.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "NVIDIA is under investigation by the U.S. Commerce Department for allegedly smuggling AI chips to China.",
+                "sentiment": "negative",
+                "action": "sell"
+            },
+            {
+                "summary": "News update including topics like ChatGPT, power supply, Meta Apollo, and Nvidia.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "An analyst with a high accuracy rate predicts a significant upside of over 30% for Nvidia stock.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "Nvidia, Intel, and EQTY Labs are working on on-silicon real-time AI compute governance.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "The article discusses whether Bitcoin or Tesla is better, using AI for financial analysis.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Intel releases a new graphics card, the Arc B580, for 1440p resolution.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Apple is collaborating with NVIDIA.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "Schneider Electric launches AI-Ready data center solutions and collaborates with NVIDIA on new data center reference designs.",
+                "sentiment": "positive",
+                "action": "buy"
+            }
+        ]
+    },
+    {
+        "name": "Apple Inc.",
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "action": "hold",
+        "details": [
+            {
+                "summary": "OpenAI hires three top engineers from DeepMind, a potential loss for Google's AI efforts.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Apple is utilizing AWS AI chips for pretraining Apple Intelligence, showcasing a collaboration with Amazon Web Services.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "Apple's investment in the UK has surpassed \u00a318 billion, supporting 550,000 jobs, including critical engineering roles.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "Apple is notifying Apple Pay and Wallet users of changes to their terms of use.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Apple announces the winners of the 2024 App Store Awards.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Adobe Lightroom and Balatro+ are among the apps honored in Apple's App Store Awards.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "A sponsored post for CoverSutra.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Apple announces the 17 winners for the 2024 App Store Awards.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "The next Apple Watch Ultra may include a life-saving upgrade.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "Tim Cook and other CEOs met with China's premier to discuss potential issues with Trump plans.",
+                "sentiment": "neutral",
+                "action": "hold"
+            }
+        ]
+    },
+    {
+        "name": "RTX Corporation",
+        "ticker": "RTX",
+        "sentiment": "positive",
+        "action": "hold",
+        "details": [
+            {
+                "summary": "NVIDIA's supply chain is boosted by strong orders from Vishay for AI servers and the RTX 50 series, indicating positive demand for related technologies.",
+                "sentiment": "positive",
+                "action": "hold"
+            },
+            {
+                "summary": "Turkey is seeking to resolve the F-35 purchase deadlock with the US, potentially impacting future defense contracts for RTX.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Intel is releasing a new graphics card, the Arc B580, targeting 1440p resolution gaming, potentially increasing competition in the graphics card market.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "An article suggests that RTX Corporation is undervalued and is a potential buy for investors, citing hedge fund interest.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "NVIDIA is set to release the RTX 5090 GPU with AI capabilities at CES 2025, targeting professionals, indicating advancements in GPU technology.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "Raytheon, a subsidiary of RTX, has been awarded a contract for NGJ-MB pod production, suggesting continued revenue streams.",
+                "sentiment": "positive",
+                "action": "buy"
+            },
+            {
+                "summary": "Nvidia leads US semiconductor stocks in AI-driven growth, highlighting the semiconductor industry's strong performance.",
+                "sentiment": "positive",
+                "action": "hold"
+            },
+            {
+                "summary": "Intel's new Arc B580 GPU with Xe2 architecture is reviewed, highlighting significant performance improvements.",
+                "sentiment": "neutral",
+                "action": "hold"
+            },
+            {
+                "summary": "US defense stocks are declining along with gold and oil futures, indicating a potential downturn in the sector.",
+                "sentiment": "negative",
+                "action": "sell"
+            },
+            {
+                "summary": "The article discusses why GeForce RTX graphics cards are good gift choices for gaming and advanced AI, highlighting consumer demand.",
+                "sentiment": "positive",
+                "action": "hold"
+            }
+        ]
+    }
+]

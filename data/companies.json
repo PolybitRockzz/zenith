@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "investment": 0.0,
+        "quantity": 0,
+        "price": 439.33,
+        "market_cap": 3266365620224
+    },
+    {
+        "name": "Alphabet Inc.",
+        "ticker": "GOOGL",
+        "investment": 980.5500000000001,
+        "quantity": 5,
+        "price": 196.11,
+        "market_cap": 2408662171648
+    },
+    {
+        "name": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "investment": 701.1,
+        "quantity": 5,
+        "price": 140.22,
+        "market_cap": 3433987833856
+    },
+    {
+        "name": "Apple Inc.",
+        "ticker": "AAPL",
+        "investment": 2582.0,
+        "quantity": 10,
+        "price": 258.2,
+        "market_cap": 3902899748864
+    },
+    {
+        "name": "RTX Corporation",
+        "ticker": "RTX",
+        "investment": 0.0,
+        "quantity": 0,
+        "price": 116.83,
+        "market_cap": 155503067136
+    }
+]
