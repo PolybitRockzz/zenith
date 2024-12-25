@@ -82,9 +82,12 @@ def sell_and_delete_stock(ticker, quantity):
 def main():
     st.markdown("<h1 style='margin-top: 0px; padding-top: 0px;'>Market Analysis</h1>", unsafe_allow_html=True)
     
-    # API Keys
-    news_api_key = '9520daaea79f47e99b19e8d93c50123c'
-    gemini_api_key = 'AIzaSyDFOCIqOIF1o39ijCymc60XazvWTwiXEJQ'
+    from dotenv import load_dotenv
+    import os
+
+    load_dotenv()  # Load environment variables from .env file
+    news_api_key = os.getenv('NEWS_API_KEY', '')
+    gemini_api_key = os.getenv('GEMINI_API_KEY', '')
     
     news_api_key = st.text_input('News API Key', value=news_api_key, type='password')
     gemini_api_key = st.text_input('Gemini API Key', value=gemini_api_key, type='password')
